@@ -26,6 +26,8 @@
  	- [webpack](#webpack)
  - 代码编辑器
  	- [sublime text](#sublime)
+ - 软件/工具 推荐
+ 	- [Windows](#windows)
  - [小结](#summary)
 
 
@@ -152,6 +154,25 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 
 
 
+###软件/工具 推荐
+
+> 善用佳软，节省时间、提高效率，我们可以拿省下的时间发发呆喝喝茶享受人生
+
+<h4 id="windows">Windows</h4>
+
+ 名称 | 备注/说明 
+ ----- | ----- 
+[Evernote](https://www.yinxiang.com/?returning) | 配合 chrome 浏览器的 剪藏 插件，把网上看到的文章分类收藏
+[Ditto](https://xbeta.info/ditto.htm) | Ditto 是最好的免费剪贴板增强软件，是提高效率的首选方案！！
+[Total Commander](https://xbeta.info/studytc/) | TC 是善用佳软唯一大力推广的非免费软件 (第二力推广的软件是 Vim)，我个人认为是全宇宙最好用的资源管理软件
+[Listary](https://xbeta.info/listary4.htm) | 对多数用户，或许是一个陌生的名字。但了解它、喜欢它、关注效率、追求操控感的用户，却视之为极优秀的工具！它让Windows的静态列表，变作了动态交互；它让原始的视觉定位，变成了即输即搜的实时过滤。
+[XMind](https://xbeta.info/xmind.htm) | 顶级商业品质的思维导图（mindmap）和头脑风暴（brainstorm）软件，“国产而国际化发展；商业化而兼有开源版本；功能丰富且美观”
+[IrfanView](https://xbeta.info/irfanview-v441.htm) | 顶级免费看图软件，功能跟速度上完爆其他同类软件
+
+
+
+
+
 <h3 id="summary">小结</h3>
 
 ####背景
@@ -171,9 +192,9 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 ####待添加内容
 - [ ] node.js
 - [ ] git
-- [ ] 框架 —— vue.js
+- [x] 框架
+	- [ ] vue.js
 - [ ] js相关
-- [ ] 软件推荐
-	- [ ] windows
+- [x] 软件/工具推荐
 	- [ ] app
 	- [ ] chrome 插件
