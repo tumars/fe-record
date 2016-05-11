@@ -1,4 +1,5 @@
-#前端学习参考记录
+#前端记录
+
  > 本文主要简单记录一些个人学习过程中的一些觉得不错的内容跟工具，大部分是前端开发的相关内容。
 
  > 受限于个人知识、喜好、懒惰，很多内容都没涉及到。
@@ -89,7 +90,7 @@
  名称 | 备注/说明 
  ----- | ----- 
 PostCSS | 大名鼎鼎的[Autoprefixer](https://github.com/postcss/autoprefixer)、[styleLint](https://github.com/stylelint/stylelint)等就是其插件，推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)，有关 PostCSS 不是什么？PostCSS 是什么？PostCSS 可以做什么等等问题，文章里面有答案
-CSS Modules | 前端组件模块化的最后一道坎,css 模块化,可以看一下[CSS trick里的系列文章](https://css-tricks.com/css-modules-part-1-need/),还有个中文的简介[《CSS Modules 详解及 React 中实践》](https://zhuanlan.zhihu.com/p/20495964)
+CSS Modules | 前端组件模块化的最后一道坎,css 模块化,可以看一下[CSS trick里的系列文章](https://css-tricks.com/css-modules-part-1-need/)，还有个中文的简介[《CSS Modules 详解及 React 中实践》](https://zhuanlan.zhihu.com/p/20495964)
 CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[《Finally, CSS In JavaScript! Meet CSSX》](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)这篇文章了解下
 
 
