@@ -26,6 +26,7 @@
  	- [webpack](#webpack)
  - 代码编辑器
  	- [sublime text](#sublime)
+ - [小结](#summary)
 
 
 ---
@@ -58,6 +59,7 @@
 [百度 FEX](http://fex.baidu.com/) | 百度前端团队
 [淘宝 FED](http://taobaofed.org/) | 淘宝前端团队
 [奇舞团](http://www.75team.com/) | 360 前端团队
+[前端乱炖](http://www.html-js.com/) | 前端社区太多，乱炖还算做的不错的
 [前端外刊评论 - 知乎专栏](https://zhuanlan.zhihu.com/FrontendMagazine) | 知乎作为一个初期几乎全是程序员的网站，也是有相当多的前端开发
 [WEB前端开发](http://www.css88.com/) | 很多人都知道的 css88，收集了很多类库的中文文档
 [W3Cplus](http://www.w3cplus.com/) | 大漠(《图解 CSS3》作者)在国内的影响力杠杠的 Sass 专家级
@@ -72,15 +74,15 @@
 
 <h4 id="react">react</h4>
 
-  > Facebook旗下 js 框架, learn one，write anywhere
+  > Facebook旗下 js 框架， learn one，write anywhere
 
  名称 | 备注/说明 
  ----- | ----- 
-[react官方文档](https://facebook.github.io/react/docs/) | 官方文档，看看api挺好，这里有其中文网[汉化文档](http://reactjs.cn/react/docs/getting-started.html)
+[react官方文档](https://facebook.github.io/react/docs/) | 官方文档，看看 api 挺好，这里有其中文网[汉化文档](http://reactjs.cn/react/docs/getting-started.html)
 [Redux](http://redux.js.org/) | 跟 react 配合的最好的状态容器，解决了 react 的 props 不能跨 components 传递的问题，这里有其[汉化版文档](https://camsong.github.io/redux-in-chinese/index.html)
 [React-Native学习指南](https://github.com/ele828/react-native-guide) | 新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代
 [React 编程规范](https://github.com/dwqs/react-style-guide) | React 编程的各种基本规则
-[react redux react-router antd](https://github.com/yinzSE/webpack-react-redux-express-boilerplate) | 一个使用了redux、react-router、express的模板，很不错，功能全面，可以学习下
+[react redux react-router antd](https://github.com/yinzSE/webpack-react-redux-express-boilerplate) | 一个使用了redux、react-router、express 的模板，很不错，功能全面，可以学习下
 
 
 
@@ -147,3 +149,17 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [package control](https://packagecontrol.io/) | sublime 的插件网站，所有的插件、主题等都在上面了，善用插件会让编辑器变得强大无比，节省生命，增加开发愉悦感
 [emmet 快捷键文档](http://docs.emmet.io/cheat-sheet/) | emmet 的快捷键文档，极大提升敲代码速度 
 [Sublime Text 3 搭建 React.js 开发环境](https://segmentfault.com/a/1190000003698071) | 开发 react 项目时必装的几个ST插件
+
+
+
+<h3 id="summary">小结</h3>
+
+####背景
+网上的前端导航类的总结非常多，文头提到的 [前端瑞士军刀](https://github.com/nieweidong/fetool) 就是此类文章中集大成者。
+我的Evernote、浏览器书签里收藏了很多前端相关的文章跟知识点，一直想梳理下做个总结，就把部分内容总结到这篇文章上，希望以此为契机逐步完善。
+
+####目标
+很多基础的或者其他资源里内容我都没写，比如 grunt、angular.js、less/sass、Bootstrap等等。
+主要是因为希望这个资源总结能做的比较精简。
+另外一些知识比如 node.js、git 等了解不是很深入，也还没写，以后会添加进来。
+还有一些因为懒惰没写，也会在以后逐步添加完善。
