@@ -74,7 +74,7 @@
 
 <h4 id="react">react</h4>
 
-  > Facebook旗下 js 框架， learn one，write anywhere
+  > Facebook 旗下 js 框架， learn one，write anywhere
 
  名称 | 备注/说明 
  ----- | ----- 
@@ -100,7 +100,7 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [anicollection](http://anicollection.github.io/#/) | CSS3 动画库，收集了常用的 CSS3 进入、退出、闪动等动画
 [CSS3 loading](http://www.yunrui.co/26261.html) | 文章收集了很多 css loading 动画，这里还有个 [css & svg loading](https://codegeekz.com/best-css-svg-loaders-and-spinners/) 收集也很全面
 [css3gen](http://css3gen.com/) | 一个 css3 工具，调整一些细致的 css3 动画、3D效果、滤镜、阴影时可以使用这个
-[字蛛 font-spider](http://font-spider.org/) | 腾讯出品的一个中文字体压缩器，把需要的文字从字体文件里挑出来，大幅压缩字体文件
+[字蛛 font-spider](http://font-spider.org/) | 腾讯出品的中文字体压缩器，把需要的文字从字体文件里挑出来，大幅压缩字体文件
 
 
 
@@ -160,6 +160,6 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 
 ####目标
 很多基础的或者其他资源里内容我都没写，比如 grunt、angular.js、less/sass、Bootstrap等等。
-主要是因为希望这个资源总结能做的比较精简。
+主要是因为希望这个资源总结能做的比较精简（其实已经写了内容里也有些事想删掉的）。
 另外一些知识比如 node.js、git 等了解不是很深入，也还没写，以后会添加进来。
 还有一些因为懒惰没写，也会在以后逐步添加完善。
