@@ -21,9 +21,11 @@
  - 前端框架
  	- [react](#react)
  - [CSS 相关](#css)
+ - [JS 相关](#JS)
  - 构建工具
  	- [gulp](#gulp)
  	- [webpack](#webpack)
+ - [其他前端相关](#other)
  - 代码编辑器
  	- [sublime text](#sublime)
  - 软件/工具 推荐
@@ -67,6 +69,7 @@
 [W3Cplus](http://www.w3cplus.com/) | 大漠(《图解 CSS3》作者)在国内的影响力杠杠的 Sass 专家级
 [阮一峰](http://www.ruanyifeng.com/blog/) | 其文章简洁易懂深入浅出，关注多年，著作[《ECMAScript 6标准入门》](http://es6.ruanyifeng.com/)
 [张鑫旭](http://www.zhangxinxu.com/wordpress/) | 成名多年的、高产的前端大湿
+[聂微东](http://www.fefork.com/) | 本篇记录就是借鉴了聂老师的文章，文章更新不多，但都是精品
 [轩枫阁](http://www.xuanfengge.com/) | 设计跟内容做的很好的博客，博主是个2014级的毕业生（感觉比 13 年毕业的我厉害好多）（手动泪目）
 
 
@@ -95,7 +98,7 @@
 
  名称 | 备注/说明 
  ----- | ----- 
-PostCSS | 大名鼎鼎的 [Autoprefixer](https://github.com/postcss/autoprefixer)、[styleLint](https://github.com/stylelint/stylelint) 等就是其插件，推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html)
+PostCSS | 大名鼎鼎的 [Autoprefixer](https://github.com/postcss/autoprefixer)、[styleLint](https://github.com/stylelint/stylelint) 等就是其插件，推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html),以及[ IBM 的这篇文章](https://www.ibm.com/developerworks/cn/web/1604-postcss-css/)
 CSS Modules | css 模块化，前端组件模块化的最后一道坎，可以看CSS trick里的系列文章 [css-modules](https://css-tricks.com/css-modules-part-1-need/)，知乎专栏的[《CSS Modules 详解及 React 中实践》](https://zhuanlan.zhihu.com/p/20495964)也可参考一下
 CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[《Finally, CSS In JavaScript! Meet CSSX》](https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/)这篇文章了解下
  | 
@@ -103,6 +106,22 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [CSS3 loading](http://www.yunrui.co/26261.html) | 文章收集了很多 css loading 动画，这里还有个 [css & svg loading](https://codegeekz.com/best-css-svg-loaders-and-spinners/) 收集也很全面
 [css3gen](http://css3gen.com/) | 一个 css3 工具，调整一些细致的 css3 动画、3D效果、滤镜、阴影时可以使用这个
 [字蛛 font-spider](http://font-spider.org/) | 腾讯出品的中文字体压缩器，把需要的文字从字体文件里挑出来，大幅压缩字体文件
+
+
+
+<h3 id="JS">JS 相关</h3>
+
+  > 一些 js 的类库跟工具
+
+ 名称 | 备注/说明 
+ ----- | ----- 
+[create.js](http://createjs.cc/) | 强大且轻量的动画游戏框架，包括 easeljs、preloadjs、tweenjs、soundjs。其中 soundjs是我最常用的音频控制库。
+[GSAP](http://greensock.com/) | 强劲流畅的动效库，官方宣称比 jquery 动画快 20 倍==
+[ECharts](http://echarts.baidu.com/) | 百度出品的图表、可视化库，简单好用功能强大，之前更多人选择的是 [Heightcharts](http:/www.hcharts.cn/)
+[Swipper](http://www.swiper.com.cn/) | 开源、免费、强大的移动端触摸滑动插件，微信里的多数滑动类的 H5 都是用这个。好用的滑动库还有 [FullPage]http://alvarotrigo.com/fullPage/#firstPage)、[PhotoSwipe](http://photoswipe.com/)
+[hammer.js](http://hammerjs.github.io/) | 移动端的手势操作库，同类型的还有百度出品的 [Touch.js](https://github.com/Clouda-teamtouch.code.baidu.com)
+[watch.js](https://github.com/melanke/Watch.JS/) | 监控对象属性变化的小库，“每当对象属性改变的时候，执行你的函数”。
+[artTemplate](http://aui.github.io/artTemplate/) | 超快的前端模板引擎。而且支持预编译，可将模板转换成为非常精简的 js 文件。
 
 
 
@@ -136,6 +155,17 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [webpack使用优化](http://www.alloyteam.com/2016/01/webpack-use-optimization/) | 腾讯前端团队的博客文章
 [webpack-demos 阮一峰](https://github.com/ruanyf/webpack-demos) | 大神阮一峰的 webpack 配置及使用 demo，涉及了开发过程中常用的 plugin、loader、chunk 等的使用与配置
 [react-hot-loader](http://gaearon.github.io/react-hot-loader/getstarted/) | 开发 react 一定要装的一个 loader，类似  gulp 里常用的的 browserSync，实现代码热替换，配合其他 loader 功能更强
+
+
+
+<h3 id="other">其他前端相关</h3>
+
+ > 一些跟前端相关的未分类收集
+
+ 名称 | 备注/说明 
+ ----- | ----- 
+[A collection of HTML head elements](https://github.com/joshbuchea/HEAD) | 详细介绍了HEAD中的各元素
+[vConsole](https://github.com/WechatFE/vConsole) | 微信团队出的移动页面 console 工具，类似 firebug lite
 
 
 
@@ -178,7 +208,7 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 ####背景
 
 网上的前端导航类的总结非常多，文头提到的 [前端瑞士军刀](https://github.com/nieweidong/fetool) 就是此类文章中集大成者。
-我的Evernote、浏览器书签里收藏了很多前端相关的文章跟知识点，一直想梳理下做个总结，就把部分内容总结到这篇文章上，希望以此为契机逐步完善。
+我的 Evernote、浏览器书签里收藏了很多前端相关的文章跟知识点，一直想梳理下做个总结，就把部分内容总结到这篇文章上，希望以此为契机逐步完善。
 
 
 ####目标
@@ -189,12 +219,12 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 还有一些因为懒惰没写，也会在以后逐步添加完善。
 
 
-####待添加内容
+####待添加组
 - [ ] node.js
 - [ ] git
 - [x] 框架
 	- [ ] vue.js
-- [ ] js相关
+	- [ ] Nuclear
 - [x] 软件/工具推荐
 	- [ ] app
 	- [ ] chrome 插件
