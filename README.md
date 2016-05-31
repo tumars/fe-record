@@ -118,7 +118,7 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [create.js](http://createjs.cc/) | 强大且轻量的动画游戏框架，包括 easeljs、preloadjs、tweenjs、soundjs。其中 soundjs是我最常用的音频控制库。
 [GSAP](http://greensock.com/) | 强劲流畅的动效库，官方宣称比 jquery 动画快 20 倍==
 [ECharts](http://echarts.baidu.com/) | 百度出品的图表、可视化库，简单好用功能强大，之前更多人选择的是 [Heightcharts](http:/www.hcharts.cn/)
-[Swipper](http://www.swiper.com.cn/) | 开源、免费、强大的移动端触摸滑动插件，微信里的多数滑动类的 H5 都是用这个。好用的滑动库还有 [FullPage]http://alvarotrigo.com/fullPage/#firstPage)、[PhotoSwipe](http://photoswipe.com/)
+[Swipper](http://www.swiper.com.cn/) | 开源、免费、强大的移动端触摸滑动插件，微信里的多数滑动类的 H5 都是用这个。好用的滑动库还有 [FullPage](http://alvarotrigo.com/fullPage/#firstPage)、[PhotoSwipe](http://photoswipe.com/)
 [hammer.js](http://hammerjs.github.io/) | 移动端的手势操作库，同类型的还有百度出品的 [Touch.js](https://github.com/Clouda-teamtouch.code.baidu.com)
 [watch.js](https://github.com/melanke/Watch.JS/) | 监控对象属性变化的小库，“每当对象属性改变的时候，执行你的函数”。
 [artTemplate](http://aui.github.io/artTemplate/) | 超快的前端模板引擎。而且支持预编译，可将模板转换成为非常精简的 js 文件。
@@ -195,7 +195,7 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [Evernote](https://www.yinxiang.com/?returning) | 配合 chrome 浏览器的 剪藏 插件，把网上看到的文章分类收藏
 [Ditto](https://xbeta.info/ditto.htm) | Ditto 是最好的免费剪贴板增强软件，是提高效率的首选方案！！
 [Total Commander](https://xbeta.info/studytc/) | TC 是善用佳软唯一大力推广的非免费软件 (第二力推广的软件是 Vim)，我个人认为是全宇宙最好用的资源管理软件
-[Listary](https://xbeta.info/listary4.htm) | 对多数用户，或许是一个陌生的名字。但了解它、喜欢它、关注效率、追求操控感的用户，却视之为极优秀的工具！它让Windows的静态列表，变作了动态交互；它让原始的视觉定位，变成了即输即搜的实时过滤。
+[Listary](https://xbeta.info/listary4.htm) | 对多数用户或许是一个陌生的名字。但了解它、喜欢它、关注效率、追求操控感的用户，却视之为极优秀的工具！它让Windows的静态列表，变作了动态交互；它让原始的视觉定位，变成了即输即搜的实时过滤。
 [XMind](https://xbeta.info/xmind.htm) | 顶级商业品质的思维导图（mindmap）和头脑风暴（brainstorm）软件，“国产而国际化发展；商业化而兼有开源版本；功能丰富且美观”
 [IrfanView](https://xbeta.info/irfanview-v441.htm) | 顶级免费看图软件，功能跟速度上完爆其他同类软件
 
@@ -214,9 +214,9 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 ####目标
 
 很多基础的或者其他资源里内容我都没写，比如 grunt、angular.js、less/sass、Bootstrap 等等。
-主要是因为希望这个资源总结能做的比较精简（其实已经写了内容里也有些是想删掉的）。
-另外一些知识比如 node.js、git 等了解不是很深入，也还没写，以后会添加进来。
-还有一些因为懒惰没写，也会在以后逐步添加完善。
+主要是因为希望这个资源总结能做的比较精简（已经写了内容里也有些是想删掉的）。
+另外一些比如 node.js、git 等了解不是很深入，也还没写，以后会添加进来。
+还有一些因懒惰没写，也会逐步添加完善。
 
 
 ####待添加组
