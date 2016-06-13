@@ -118,9 +118,11 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [create.js](http://createjs.cc/) | 强大且轻量的动画游戏框架，包括 easeljs、preloadjs、tweenjs、soundjs。其中 soundjs是我最常用的音频控制库。
 [GSAP](http://greensock.com/) | 强劲流畅的动效库，官方宣称比 jquery 动画快 20 倍==
 [ECharts](http://echarts.baidu.com/) | 百度出品的图表、可视化库，简单好用功能强大，之前更多人选择的是 [Heightcharts](http:/www.hcharts.cn/)
+[SUI](http://m.sui.taobao.org/) | 阿里出品的轻量精巧的H5 UI 库，包含20多个常用组件
+[AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) | 腾讯出品的移动端手势操作库，含无依赖版跟 react 版。同类型的还有 [hammer.js](http://hammerjs.github.io/),以及百度出品的 [Touch.js](https://github.com/Clouda-teamtouch.code.baidu.com) 
+[AlloyLever](https://github.com/AlloyTeam/AlloyLever) | 腾讯出品的移动端调试工具，只需引入一个 js ，就可以在页面里实现一个 Web Developer Tool
 [Swipper](http://www.swiper.com.cn/) | 开源、免费、强大的移动端触摸滑动插件，微信里的多数滑动类的 H5 都是用这个。好用的滑动库还有 [FullPage](http://alvarotrigo.com/fullPage/#firstPage)、[PhotoSwipe](http://photoswipe.com/)
 [Pace](http://github.hubspot.com/pace/docs/welcome/) | 加载进度条的插件，通过请求量判断页面加载进度，可以自定义进度条样式
-[hammer.js](http://hammerjs.github.io/) | 移动端的手势操作库，同类型的还有百度出品的 [Touch.js](https://github.com/Clouda-teamtouch.code.baidu.com)
 [watch.js](https://github.com/melanke/Watch.JS/) | 监控对象属性变化的小库，“每当对象属性改变的时候，执行你的函数”。
 [artTemplate](http://aui.github.io/artTemplate/) | 超快的前端模板引擎。而且支持预编译，可将模板转换成为非常精简的 js 文件。
 [CountUp.js](https://inorganik.github.io/countUp.js/) | 轻量经的JavaScript类，让数字由大到小或小到大递进变化
@@ -222,6 +224,7 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 
 
 ####待添加组
+- [ ] 网站
 - [ ] node.js
 - [ ] git
 - [x] 框架
