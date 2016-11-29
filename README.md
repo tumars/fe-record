@@ -30,6 +30,7 @@
  - [sublime text](#sublime)
  - 软件/工具 推荐
  	- [Windows](#windows)
+ 	- [Mac](#mac)
  - [杂七杂八](#other)
  - [小结](#summary)
 
@@ -132,7 +133,8 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [Lodash](http://lodashjs.com/) | 具有一致接口、模块化、高性能等特性的JavaScript 工具库
 [SUI](http://m.sui.taobao.org/) | 阿里出品的轻量精巧的H5 UI 库，包含20多个常用组件
 [ANT DESIGN](http://ant.design/) | 蚂蚁金服出品的前端框架，组件全是 React 组件，相当赞
-[Amaze UI](http://amazeui.org/) | 有名的开源 HTML5 跨屏前端框架
+[Amaze UI](http://amazeui.org/) | 有名的开源 HTML5 跨屏前端框架	
+[Frozen UI](http://frozenui.github.io/) | 腾讯出品的前端组件库
 [Threejs](http://threejs.org/) | 知名的js 3D库，封装了底层的WebGL图形接口，提供简化、高效的三维图形程序开发
 [create.js](http://createjs.cc/) | 强大且轻量的动画游戏框架，包括 easeljs、preloadjs、tweenjs、soundjs
 [GSAP](http://greensock.com/) | 强劲流畅的动效库，官方宣称比 jquery 动画快 20 倍
@@ -221,8 +223,30 @@ CSSX | 类似于 JSX ，一种写在 JavaScript 里的 css 语法，可以看[�
 [Ditto](https://xbeta.info/ditto.htm) | Ditto 是最好的免费剪贴板增强软件，是提高效率的首选方案！！
 [Total Commander](https://xbeta.info/studytc/) | TC 是善用佳软唯一大力推广的非免费软件 (第二力推广的软件是 Vim)，我个人认为是全宇宙最好用的资源管理软件
 [Listary](https://xbeta.info/listary4.htm) | 对多数用户或许是一个陌生的名字。但了解它、喜欢它、关注效率、追求操控感的用户，却视之为极优秀的工具！它让Windows的静态列表，变作了动态交互；它让原始的视觉定位，变成了即输即搜的实时过滤。
-[XMind](https://xbeta.info/xmind.htm) | 顶级商业品质的思维导图（mindmap）和头脑风暴（brainstorm）软件，“国产而国际化发展；商业化而兼有开源版本；功能丰富且美观”
 [IrfanView](https://xbeta.info/irfanview-v441.htm) | 顶级免费看图软件，功能跟速度上完爆其他同类软件
+[XMind](https://xbeta.info/xmind.htm) | 顶级商业品质的思维导图（mindmap）和头脑风暴（brainstorm）软件，“国产而国际化发展；商业化而兼有开源版本；功能丰富且美观”，也有 mac 版
+[LICEcap](屏幕录制工具) | 简单好用，录制屏幕，导出 gif，也有 mac 版
+[马克鳗](http://www.getmarkman.com/) | 高效好用的设计稿标注、测量工具，设计师、产品经理应该必备，也有 mac 版
+
+<h4 id="mac">Mac</h4>
+
+ 名称 | 备注/说明 
+ ----- | ----- 
+[Alfred](http://sspai.com/27900/) | mac 上著名效率软件，称为神兵利器也不为过，有快速启动、剪贴板增强、词典、计算器、构建工作流等等功能，非常强大
+[CheatSheet](https://www.mediaatelier.com/CheatSheet/) | 快速提示快捷键工具，在任意界面长按 command 键会显示当前支持的所有快捷键列表
+[iTerm2](https://www.iterm2.com/) | mac 上替代自带终端的软件，有自动变色、只能选中、自动完成、常用快捷键等等功能，被称为 mac 上最好用的终端
+[oh my zsh](https://github.com/robbyrussell/oh-my-zsh) | zsh 被称为 unix 系统中最强大的 shell，但 zsh 的默认配置及其复杂繁琐，oh-my-zsh这个开源项目，让zsh配置降到0门槛
+[Homebrew](http://brew.sh/index_zh-cn.html) | mac 上的包管理工具，安装后可以使用 brew 来快速安装、管理各种软件、解释器、编译器，省心省力
+[Go2Shell](http://zipzapmac.com/go2shell) | 一个可以快速在 Finder 当前目录打开 Shell 的工具，小巧，非常好用，可以将默认终端设成 iTerm2
+[CRAX Commander](http://crax.soft4u2.com/) | mac 上的一款文件管理软件，mac 上没有 Total Commander 是个很大的遗憾，这个软件可以实现 TC 约 60% 的功能，已经比 Finder 好用很多
+[MPV](https://github.com/mpv-player/mpv) | mpv 以 ffmpeg 为解码器，可以调用 OS X 平台的硬件加速解码，支持 ass 字幕，有高级 OpenGL scale 算法，还支持 lua 扩展脚本，总之是 mac 上好用的全能播放器
+[CleanMyMac3](http://www.mycleanmymac.com/) | 目前mac最强大的系统清理工具，可以清除mac系统多余的语言包、系统缓存、应用程序、PowerPc软件运行库等，是个硬盘瘦身的好工具
+[Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) | 能防止应用程序在你不知道的情况下自动访问网络，你可以定义不允许访问。比如你安装破解了 adobe 的软件后需要禁止一切 adobe 相关的网络连接，除了修改 host 外还可以用这个
+[SSH Tunnel](https://itunes.apple.com/cn/app/ssh-tunnel/id734418810?mt=12) | 带 GUI 的 shh 隧道工具，爬墙必备，使用 shh 穿透时就不必使用命令行了
+[Xcode](https://itunes.apple.com/cn/app/xcode/id497799835?mt=12) |  苹果软件开发工具，mac 跟 ios 开发必备，而且 Mac 下如果不安装 Xcode，部分常用的指令都不支持
+[Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637) | 网络调试工具，可以理解为高级版的适用 ios 手机的 Fiddler，还可以作为翻墙工具
+[Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/index.html) | 手册内容为「如何让一部全新的 MacBook 快速完成开发环境配置」，主要面向 Web 开发者，内容简单基础
+
 
 
 <h3 id="other">杂七杂八</h3>
