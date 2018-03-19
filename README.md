@@ -53,10 +53,7 @@
 
 <h3 id="blog">前端博客</h3>
 
-  > 一些不错的团队或个人博客，部分是英文博客，建议加进 RSS 订阅。
-
-  > 这篇[《front-end-collect》](https://github.com/foru17/front-end-collect)总结的更全面，包括了各种前端组织、博客、微博、期刊、书籍等。
-
+  > 一些不错的团队或个人博客，部分是英文博客，建议加进 RSS 订阅。这篇[《front-end-collect》](https://github.com/foru17/front-end-collect)总结的更全面，包括了各种前端组织、博客、微博、期刊、书籍等。
   > 我这里只写一些个人订阅的常看的博客。
 
  名称 | 备注/说明 
@@ -86,7 +83,6 @@
 [stackoverflow](https://stackoverflow.com/) | 技术问答
 [medium](https://medium.com/) | 技术文章分享订阅
 [quora](https://www.quora.com/) | 问答平台
-
 [segmentfault](https://segmentfault.com/) | 国内技术问答
 [掘金](https://juejin.im/timeline) | 国内技术文章分享订阅
 [知乎](https://www.zhihu.com/) | 国内问答平台
@@ -143,6 +139,8 @@
 
 <h4 id="post-css">post-css</h4>
 
+ 名称 | 备注/说明 
+ ----- | ----- 
 [PostCSS](https://github.com/postcss/postcss) | 大名鼎鼎的 [Autoprefixer](https://github.com/postcss/autoprefixer)、[styleLint](https://github.com/stylelint/stylelint) 等就是其插件，推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html),以及[ IBM 的这篇文章](https://www.ibm.com/developerworks/cn/web/1604-postcss-css/)
 CSS Modules | css 模块化，前端组件模块化的最后一道坎，可以看CSS trick里的系列文章 [css-modules](https://css-tricks.com/css-modules-part-1-need/)，知乎专栏的[《CSS Modules 详解及 React 中实践》](https://zhuanlan.zhihu.com/p/20495964)也可参考一下
 [Autoprefixer](https://github.com/postcss/autoprefixer) | 自动生成 css 的浏览器前缀
