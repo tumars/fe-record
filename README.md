@@ -4,7 +4,7 @@
 
  > 受限于个人涉猎、喜好，很多内容都没涉及到。
 
- > 本文还有一个网页版，请访问 [http://www.ferecord.com/nav](http://www.ferecord.com/ "前端记录") 查看
+ > <del>本文还有一个网页版，请访问 [http://www.ferecord.com/nav](http://www.ferecord.com/ "前端记录") 查看</del>
 
 
 
@@ -21,6 +21,7 @@
  - [前端综合资源](#resource)
  - [前端博客](#blog)
  - [技术网站](#site)
+ - [设计](#design)
  - 前端框架
 	- [react](#react)
  - [组件库](#component)
@@ -89,10 +90,23 @@
 [v2ex](https://www.v2ex.com/) | 国内程序员聊天扯淡论坛
 
 
+<h3 id="design">设计</h3>
 
+ 名称 | 备注/说明 
+ ----- | ----- 
+[dribbble](https://dribbble.com/) | 知名设计网站，没有灵感了就上去看看
+[优设](http://www.uisdc.com/) | 设计师学习平台
+[ui 中国](http://www.ui.cn/) | ui 中国
 
 
 ### 前端框架
+
+ 名称 | 备注/说明 
+ ----- | ----- 
+[React](http://reactjs.org/) | facebook 出品的前端框架
+[Angular](https://angularjs.org/.org/) | Google 出品的前端框架
+[Vue](https://vuejs.org.cn/) | 阿里（尤雨溪）出品的前端框架
+
 
 <h4 id="react">react</h4>
 
@@ -102,7 +116,7 @@
  ----- | ----- 
 [react官方文档](https://facebook.github.io/react/docs/) | 官方文档，看看 api 挺好，这里有其中文网[汉化文档](http://reactjs.cn/react/docs/getting-started.html)
 [Redux](http://redux.js.org/) | 跟 react 配合的最好的状态容器，解决了 react 的 props 不能跨 components 传递的问题，这里有其[汉化版文档](https://camsong.github.io/redux-in-chinese/index.html)
-[React-Native学习指南](https://github.com/ele828/react-native-guide) | 新玩意层出不穷... 对于能持续学习的童鞋，这是个美好的时代
+[React-Native学习指南](https://github.com/ele828/react-native-guide) |learn once，write anywhere
 [React 编程规范](https://github.com/dwqs/react-style-guide) | React 编程的各种基本规则
 [react-boilerplate](https://github.com/mxstbr/react-boilerplate) | 非常全面的 react 项目构建模板
 
@@ -141,8 +155,8 @@
 
  名称 | 备注/说明 
  ----- | ----- 
-[PostCSS](https://github.com/postcss/postcss) | 大名鼎鼎的 [Autoprefixer](https://github.com/postcss/autoprefixer)、[styleLint](https://github.com/stylelint/stylelint) 等就是其插件，推荐大漠的文章[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html),以及[ IBM 的这篇文章](https://www.ibm.com/developerworks/cn/web/1604-postcss-css/)
-CSS Modules | css 模块化，前端组件模块化的最后一道坎，可以看CSS trick里的系列文章 [css-modules](https://css-tricks.com/css-modules-part-1-need/)，知乎专栏的[《CSS Modules 详解及 React 中实践》](https://zhuanlan.zhihu.com/p/20495964)也可参考一下
+[PostCSS](https://github.com/postcss/postcss) | 请看[《PostCSS深入学习》](http://www.w3cplus.com/PostCSS/postcss-deep-dive-what-you-need-to-know.html),以及[ IBM 的这篇文章](https://www.ibm.com/developerworks/cn/web/1604-postcss-css/)
+[css-modules](https://github.com/css-modules/css-modules) | css 模块化解决方案
 [Autoprefixer](https://github.com/postcss/autoprefixer) | 自动生成 css 的浏览器前缀
 [cssnano](http://cssnano.co/) | 样式级别的 css 压缩工具
 [postcss-sprites](https://github.com/2createStudio/postcss-sprites) | 雪碧图生成工具，可生成各种类雪碧图
@@ -156,9 +170,6 @@ CSS Modules | css 模块化，前端组件模块化的最后一道坎，可以�
 
  名称 | 备注/说明 
  ----- | ----- 
-[React](http://reactjs.org/) | facebook 出品的前端框架
-[Angular](https://angularjs.org/.org/) | Google 出品的前端框架
-[Vue](https://vuejs.org.cn/) | 使用虚拟 dom 的前端框架，简单好用，比 react 体积小很多
 [Lodash](http://lodashjs.com/) | 具有一致接口、模块化、高性能等特性的JavaScript 工具库
 [Threejs](http://threejs.org/) | 知名的js 3D库，封装了底层的WebGL图形接口，提供简化、高效的三维图形程序开发
 [create.js](http://createjs.cc/) | 强大且轻量的动画游戏框架，包括 easeljs、preloadjs、tweenjs、soundjs
